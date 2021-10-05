@@ -1,0 +1,13 @@
+custom patched st used within my custom patched dwm: https://github.com/slimerPuncher/dwm
+
+---------------------
+v1.0
+---------------------
+
+Patches:
+*alpha
+*dynamic-cursor-color
+*gruvbox-material (terminal colors)
+*scrollback
+*scrollback-mouse
+*scrollback-mouse-increment
